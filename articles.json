@@ -1,3 +1,9 @@
-[{
-  "name": "test"
-}]
+[
+    {
+        "title": "Three.js folder structure",
+        "subtitle":
+            "The examples on threejs.com are visually very appealing but the code behind is an absolute horror to look at, especially if you are just starting out",
+        "published": "2022-01-01",
+        "content": "threejs_folder_structure.md",
+    }
+]

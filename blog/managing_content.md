@@ -1,19 +1,47 @@
-# hello
+# Nothing to be seen here yet folks, move along
 
-how are you doing?
+testing markdown
 
-## h2
+-   hello
+-   123
 
-### h3
+1. ordered
+2. ordered
+3. ordered
 
--   item1
--   item 2
--   item3
--   dasdasd
--   asdas
+** bold text **
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis dolorem hic in. Architecto sequi quasi
-fugiat id et eum nesciunt deserunt. Ea vitae, voluptatem hic esse sequi eum officiis commodi.
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis dolorem hic in. Architecto sequi quasi
-fugiat id et eum nesciunt deserunt. Ea vitae, voluptatem hic esse sequi eum officiis commodi.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis dolorem hic in. Architecto sequi quasi
-fugiat id et eum nesciunt deserunt. Ea vitae, voluptatem hic esse sequi eum officiis commodi.
+> block quote
+> block quote
+
+`print("hello world")`
+
+H~2~O
+X^2^
+
+-   [x] Write the press release
+-   [ ] Update the website
+-   [ ] Contact the media
+
+That is so funny! :joy:
+
+I need to highlight these ==very important words==.
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+```
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": 25
+}
+```
+
+term
+: definition
+
+term
+: definition

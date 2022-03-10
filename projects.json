@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Flocking simulation",
+        "description": "Flocking is the behavior exhibited when a group of birds, called a flock, are foraging or in flight.",
+        "tags": ["javascript", "threejs"],
+        "image": "flocking.png",
+        "link": "https://zealous-joliot-69ec53.netlify.app/"
+    },
+    {
+        "name": "This very page",
+        "description": "You are already here, good job!",
+        "tags": ["javascript", "vuejs", "css3"],
+        "image": "portfolio.png",
+        "link": "https://github.com"
+    },
+    {
+        "name": "There is literally everything in space",
+        "description": "Learning THREE.js via the online book discoverthreejs.com",
+        "tags": ["javascript", "threejs"],
+        "image": "space.png",
+        "link": "https://enigmatic-anchorage-45678.herokuapp.com/"
+    },
+    {
+        "name": "Periodic investment simulator",
+        "description": "A quick script approximating returns based on fixed period - fixed amount - single instrument investments.",
+        "tags": ["python", "pandas"],
+        "image": "invest.png",
+        "link": "https://colab.research.google.com/drive/1mBqfRJd8tglhcjg7p8ZxW5zs7WCSo5if?usp=sharing"
+    }
+]

@@ -8,7 +8,7 @@ import { useStore } from "vue";
 const articles = useStore().state.articles.slice(0, 2);
 ```
 
-Brilliant. Anyways, now that the _why_ is out of the way and the website is finished, here comes the question of _how_ to manage the content. I don't have a ton of experience but I know for sure that there is no way in hell I will be writing HTML. I also know that I do not want to commit content to the same repo where the code is hosted, even though with website of this size it might be acceptable, nor do I want to build a dedicated backend. That's seems like an overkill. After a minute or so of googling a nice solution presents itself, which is also a good excuse to see how a formatted quote block looks like around here.
+Brilliant. Anyways, now that the _why_ is out of the way and the website is finished, here comes the question of how to manage the content. I don't have a ton of experience but I know for sure that there is no way in hell I will be writing HTML. I also know that I do not want to commit content to the same repo where the code is hosted, even though with website of this size it might be acceptable, nor do I want to build a dedicated backend. After a minute or so of googling a nice solution presents itself, which is also a good excuse to see how a formatted quote block looks like around here.
 
 > A headless CMS is any type of back-end content management system where the content repository “body” is separated or decoupled from the presentation layer "head."
 
@@ -32,7 +32,7 @@ portfolio/
 └── src/
 ```
 
-Much cool, very text formatted code block. So how does it work? If it wasn't obvious already I simply fetch whatever I need from the secondary repository. In case I'm offline, I can get the files from the local repo. That's handled by the following function.
+Much cool, very text formatted code block. So how does it work? If it wasn't obvious already I simply fetch whatever I need from the secondary repository. In case I'm offline, I can get the files from the local repo. That's being handled by the following function.
 
 ```js
 function getURL() {

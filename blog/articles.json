@@ -1,5 +1,12 @@
 [
     {
+        "title": "Visualizing Strava activities with ThreeJS - part 1",
+        "subtitle": "A one way trip from Strava to Python",
+        "published": "2022-07-28",
+        "filename": "threejs_hiking_part_1.md",
+        "content": ""
+    },
+    {
         "title": "Website one, content zero",
         "subtitle": "A little bit of reasoning behind this site and how I manage content around here",
         "published": "2022-03-24",

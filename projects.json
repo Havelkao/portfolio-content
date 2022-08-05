@@ -1,10 +1,10 @@
 [
     {
-        "name": "Flocking simulation",
-        "description": "Flocking is the behavior exhibited when a group of birds, called a flock, are foraging or in flight.",
-        "tags": ["javascript", "threejs"],
-        "image": "flocking.png",
-        "link": "https://zealous-joliot-69ec53.netlify.app/"
+        "name": "Strava activities 3D visualization",
+        "description": "Strava app track data turned into a THREE.JS visualization",
+        "tags": ["javascript", "threejs", "python", "pandas"],
+        "image": "hiking.png",
+        "link": "https://magenta-peony-c65f7c.netlify.app/"
     },
     {
         "name": "This very page",
@@ -19,6 +19,13 @@
         "tags": ["javascript", "threejs"],
         "image": "space.png",
         "link": "https://enigmatic-anchorage-45678.herokuapp.com/"
+    },
+    {
+        "name": "Flocking simulation",
+        "description": "Flocking is the behavior exhibited when a group of birds, called a flock, are foraging or in flight.",
+        "tags": ["javascript", "threejs"],
+        "image": "flocking.png",
+        "link": "https://zealous-joliot-69ec53.netlify.app/"
     },
     {
         "name": "Periodic investment simulator",

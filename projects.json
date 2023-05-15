@@ -18,7 +18,7 @@
         "description": "Learning THREE.js via the online book discoverthreejs.com",
         "tags": ["javascript", "threejs"],
         "image": "space.png",
-        "link": "https://enigmatic-anchorage-45678.herokuapp.com/"
+        "link": "https://extraordinary-strudel-dc67c9.netlify.app/"
     },
     {
         "name": "Flocking simulation",

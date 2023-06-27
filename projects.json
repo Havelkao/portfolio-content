@@ -1,5 +1,12 @@
 [
     {
+        "name": "Physics simulations",
+        "description": "Basic integration of threejs and cannon-es",
+        "tags": ["javascript", "threejs", "cannon-es"],
+        "image": "physics.png",
+        "link": "https://soft-blini-977df0.netlify.app/"
+    },
+    {
         "name": "Strava activities 3D visualization",
         "description": "Strava app track data turned into a THREE.JS visualization",
         "tags": ["javascript", "threejs", "python", "pandas"],
